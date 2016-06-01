@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-cube
-=======
-guest
->>>>>>> cc578f96caec3596cdbf71e88de4955e5f7c83bf
+merge roi nhe cube
